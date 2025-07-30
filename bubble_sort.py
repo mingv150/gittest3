@@ -45,4 +45,4 @@ if __name__ == "__main__":
 
     print("明文:", msg)
     print("加密后:", encrypted.hex())  # 转十六进制方便查看
-    print("解密后C:", decrypted)
+    print("解密后D:", decrypted)
